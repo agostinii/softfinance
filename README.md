@@ -38,4 +38,4 @@ Rodar pelo Docker
 
 2 - Rodar o comando "docker build -t softfinance -f Dockerfile ."
 
-3 - Rodar o comando para rodar a imagem "docker run -p 5000:80 -it softfinance"
+3 - Rodar o comando para rodar a imagem "docker run -d -p 5000:80 --name appsoftfinance softfinance"
