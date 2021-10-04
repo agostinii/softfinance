@@ -3,6 +3,7 @@
 Contruído com
 
 * .Net Core 3.1
+* Docker
 
 Pré-Requisitos
 
