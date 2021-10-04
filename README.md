@@ -1,10 +1,12 @@
 # SoftFinance
 
 * Contruído com
-- .Net Core 3.1
+
+.Net Core 3.1
 
 * Pré-Requisitos
-- Realizar o download do .Net Core 3.1: "https://dotnet.microsoft.com/download/dotnet/3.1"
+
+Realizar o download do .Net Core 3.1: "https://dotnet.microsoft.com/download/dotnet/3.1"
 
 * Instalação
 
