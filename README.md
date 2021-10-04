@@ -1,24 +1,24 @@
 # SoftFinance
 
-Contruído com
+* Contruído com
 - .Net Core 3.1
 
-Pré-Requisitos
+* Pré-Requisitos
 - Realizar o download do .Net Core 3.1: "https://dotnet.microsoft.com/download/dotnet/3.1"
 
-Instalação
+* Instalação
 
 1 - Git clone no diretório de sua preferência "https://github.com/agostinii/softfinance.git"
 
 2 - Acessar o diretório via terminar
 
-Realizar testes
+* Realizar testes
 
 1 - Acessar a pasta do projeto "cd .\SoftFinance.Tests\"
 
 2 - Rodar os testes com o comenado "dotnet test"
 
-Rodar API
+* Rodar API
 
 1 - Acessar a pasta do projeto "cd .\SoftFinance.Api\"
 
